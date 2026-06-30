@@ -7,4 +7,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 EXPOSE 17050
 
-CMD ["python", "app/main.py"]
+CMD ["python", "app/py/main.py"]

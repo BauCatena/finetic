@@ -84,3 +84,178 @@ Datos en Hex: 78780D0108680220306662210000745B0D0A
 TIMEOUT, desconectando de ('127.0.0.1', 43768)
 
 
+mi-servidor-gps-1  | Servidor activo y escuchando en el puerto 17050...
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 34476)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210000745B0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 34476)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1300040400010001F2960D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 34476)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 34476)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 34476)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 49994)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210004327F0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 49994)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1300040400010005B4B20D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 49994)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 49994)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 49994)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 48926)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210008F8130D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 48926)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A13000404000100097EDE0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 48926)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 48926)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 48926)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 51230)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221000CBE370D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 51230)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A130004040001000D38FA0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 51230)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 51230)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 51230)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 57362)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221001064DA0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 57362)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1300040400010011E2170D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 57362)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 57362)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 57362)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 57320)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221001422FE0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 57320)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001001563350D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 57320)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 57320)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 57320)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 51770)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210018E8920D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 51770)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 72 | Contenido: 78781F121A061E0F1732C6038FB8A00758656005182E02D236667816EE070019851A0D0A
+mi-servidor-gps-1  | [GT06] Coordenadas recibidas de ('172.18.0.1', 51770)
+mi-servidor-gps-1  | Traducción de coordenadas: {'beggining': 30840, 'length': 31, 'protocol': 18, 'timestamp': '26/06/30 15:23:50', 'sattelite': 198, 'latitude': 33.19475555555555, 'longitude': 68.46312888888889, 'speed': 5, 'direction': 6190, 'mcc': 722, 'mnc': 54, 'lac': 26232, 'cell-id': 1502727, 'information-seq': 25, 'errors': 34074, 'end': 3338}
+mi-servidor-gps-1  | [DB Error] Failed to save location: invalid input for query argument $4: '26/06/30 15:23:50' (expected a datetime.date or datetime.datetime instance, got 'str')
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001001A9BC20D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 51770)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 51770)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 51770)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 34010)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221001DBF3F0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 34010)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 72 | Contenido: 78781F121A061E0F1A32C6038FAA4007585B9805196602D236667817CE0C001EFA340D0A
+mi-servidor-gps-1  | [GT06] Coordenadas recibidas de ('172.18.0.1', 34010)
+mi-servidor-gps-1  | Traducción de coordenadas: {'beggining': 30840, 'length': 31, 'protocol': 18, 'timestamp': '26/06/30 15:26:50', 'sattelite': 198, 'latitude': 33.19271111111111, 'longitude': 68.46173777777778, 'speed': 5, 'direction': 6502, 'mcc': 722, 'mnc': 54, 'lac': 26232, 'cell-id': 1560076, 'information-seq': 30, 'errors': 64052, 'end': 3338}
+mi-servidor-gps-1  | [DB Error] Failed to save location: invalid input for query argument $4: '26/06/30 15:26:50' (expected a datetime.date or datetime.datetime instance, got 'str')
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001001FCC6F0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 34010)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 34010)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 34010)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 51974)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210022764B0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 51974)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001002337800D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 51974)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 51974)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 51974)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 48338)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210028D9110D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 48338)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 72 | Contenido: 78781F121A061E0F1E39C6038FA4B80758593007189602D236667817CE0900296A3C0D0A
+mi-servidor-gps-1  | [GT06] Coordenadas recibidas de ('172.18.0.1', 48338)
+mi-servidor-gps-1  | Traducción de coordenadas: {'beggining': 30840, 'length': 31, 'protocol': 18, 'timestamp': '26/06/30 15:30:57', 'sattelite': 198, 'latitude': 33.191924444444446, 'longitude': 68.46139555555555, 'speed': 7, 'direction': 6294, 'mcc': 722, 'mnc': 54, 'lac': 26232, 'cell-id': 1560073, 'information-seq': 41, 'errors': 27196, 'end': 3338}
+mi-servidor-gps-1  | [DB Error] Failed to save location: invalid input for query argument $4: '26/06/30 15:30:57' (expected a datetime.date or datetime.datetime instance, got 'str')
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001002AAA410D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 48338)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 48338)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 48338)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 54942)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221002EBC270D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 54942)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001002FFDEC0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 54942)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 54942)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 54942)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 40962)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221003377430D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 40962)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001003453BE0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 40962)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 40962)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 40962)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 45914)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221003D9E3D0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 45914)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 72 | Contenido: 78781F121A061E0F261EC6038FC834075870C014180202D236667816EE0A003E72860D0A
+mi-servidor-gps-1  | [GT06] Coordenadas recibidas de ('172.18.0.1', 45914)
+mi-servidor-gps-1  | Traducción de coordenadas: {'beggining': 30840, 'length': 31, 'protocol': 18, 'timestamp': '26/06/30 15:38:30', 'sattelite': 198, 'latitude': 33.19697111111111, 'longitude': 68.46474666666667, 'speed': 20, 'direction': 6146, 'mcc': 722, 'mnc': 54, 'lac': 26232, 'cell-id': 1502730, 'information-seq': 62, 'errors': 29318, 'end': 3338}
+mi-servidor-gps-1  | [DB Error] Failed to save location: invalid input for query argument $4: '26/06/30 15:38:30' (expected a datetime.date or datetime.datetime instance, got 'str')
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A134004040001003FED6D0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 45914)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 72 | Contenido: 78781F121A061E0F2620C6038FC770075870601A181802D236667816EE0A0040D0850D0A
+mi-servidor-gps-1  | [GT06] Coordenadas recibidas de ('172.18.0.1', 45914)
+mi-servidor-gps-1  | Traducción de coordenadas: {'beggining': 30840, 'length': 31, 'protocol': 18, 'timestamp': '26/06/30 15:38:32', 'sattelite': 198, 'latitude': 33.19686222222222, 'longitude': 68.46469333333333, 'speed': 26, 'direction': 6168, 'mcc': 722, 'mnc': 54, 'lac': 26232, 'cell-id': 1502730, 'information-seq': 64, 'errors': 53381, 'end': 3338}
+mi-servidor-gps-1  | [DB Error] Failed to save location: invalid input for query argument $4: '26/06/30 15:38:32' (expected a datetime.date or datetime.datetime instance, got 'str')
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 45914)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 45914)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 50718)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D010868022030666221004561F20D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 50718)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1340040400010046032B0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 50718)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 50718)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 50718)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 58334)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210000745B0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 58334)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1300040400010001F2960D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 58334)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 58334)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 58334)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 51134)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210004327F0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 51134)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A1300040400010005B4B20D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 51134)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | Desconexión limpia del dispositivo ('172.18.0.1', 51134)
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 51134)
+mi-servidor-gps-1  | Conexión establecida desde ('172.18.0.1', 37066)
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 36 | Contenido: 78780D0108680220306662210008F8130D0A
+mi-servidor-gps-1  | [GT06] Paquete de Login detectado para ('172.18.0.1', 37066)
+mi-servidor-gps-1  | [GT06] Dispositivo autenticado exitosamente: 868022030666221
+mi-servidor-gps-1  |        DEBUG para Translator -> Largo: 30 | Contenido: 78780A13000404000100097EDE0D0A
+mi-servidor-gps-1  | [GT06] Paquete de Heartbeat detectado para ('172.18.0.1', 37066)
+mi-servidor-gps-1  | [Status] Batería (1 al 5): 4 - Señal: 4
+mi-servidor-gps-1  | TIMEOUT: ('172.18.0.1', 37066) superó los 120s de inactividad. Desconectando.
+mi-servidor-gps-1  | Socket liberado y cerrado para ('172.18.0.1', 37066)
+Gracefully Stopping... press Ctrl+C again to force

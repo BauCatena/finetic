@@ -1,0 +1,23 @@
+services:
+
+  mi-servidor-gps:
+    build: .
+    ports:
+      - "17050:17050"
+    depends_on:
+      - postgresDb
+    environment:
+    - PYTHONUNBUFFERED=1
+  postgresDb:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: trackerUser
+      POSTGRES_PASSWORD: trackerPassword
+      POSTGRES_DB: trackerMasterData
+    ports:
+      - "5432:5432"
+    volumes:
+      -  DB-GPS:/var/lib/docker/volumes/DB-GPS/_data
+      - ./app/postgreSQL/init.sql:/docker-entrypoint-initdb.d/init.sql
+volumes:
+  DB-GPS:
